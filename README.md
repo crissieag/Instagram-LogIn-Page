@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante bootcamp da Digital Inovation One, com a proposta de replicar a página 'Continuar' do Instagram. Foram utilizadas imagens relativas ao feed e publicações pessoais.
 
- ![Tela](https://github.com/crissieag/Instagram-LogIn-Page/Captura.png)
+ ![Tela](https://github.com/crissieag/Instagram-LogIn-Page/blob/main/Captura.png)
 
 # :gear: Tecnologias #
 
